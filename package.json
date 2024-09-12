@@ -1,0 +1,11 @@
+{
+  "name": "class.css",
+  "version": "1.0.0",
+  "description": "tecnical eng node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tecnical eng node.js",
+  "license": "ISC"
+}
